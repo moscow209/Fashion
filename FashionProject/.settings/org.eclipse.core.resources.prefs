@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//WebContent/account.jsp=UTF-8
+encoding//WebContent/detail.jsp=UTF-8
+encoding//WebContent/forgot-password.jsp=UTF-8
+encoding//WebContent/hearder.jsp=UTF-8
+encoding//WebContent/index.jsp=UTF-8
+encoding//src/com/example/moskva/bussine/ProductBus.java=UTF-8
+encoding//src/com/example/moskva/bussine/SendMail.java=UTF-8
+encoding//src/com/example/moskva/controller/AccountController.java=UTF-8
+encoding//src/com/example/moskva/controller/CartController.java=UTF-8
+encoding//src/com/example/moskva/controller/CheckOutController.java=UTF-8
+encoding//src/com/example/moskva/controller/ForgotPasswordController.java=UTF-8
+encoding//src/com/example/moskva/controller/RegisterController.java=UTF-8
